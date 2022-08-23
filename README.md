@@ -15,3 +15,7 @@ You can check it out live on my website <a href="https://www.jakubmikes.cz/sortA
 This project was inspired by Clément Mihailescu's video and was made in HTML, CSS, and Vanilla JavaScript.
 
 Goal of this project is to be able to visualize all sorting algorithms from <a href="https://www.algoritmy.net/">algoritmy.net</a>.
+
+<img align="center" width="500px" src="assets/img/unsorted.png" /><br>
+
+<img align="center" width="500px" src="assets/img/sorted.png" /><br>
